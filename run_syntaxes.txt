@@ -1,0 +1,8 @@
+->to create the venv
+	python -m venv venv
+
+->to activate the venv
+	.\venv\Scripts\activate
+->to run the app.py
+        streamlit run app.py
+
